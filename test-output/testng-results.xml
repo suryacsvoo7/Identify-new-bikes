@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="19" passed="19" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T22:45:56 IST" name="Suite" finished-at="2024-02-28T22:46:33 IST" duration-ms="37042">
+    <groups>
+      <group name="regression">
+        <method signature="testcase_zigwheels01.mainlog()[pri:1, instance:testcase.testcase_zigwheels01@6f15d60e]" name="mainlog" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.getupbikes()[pri:2, instance:testcase.testcase_zigwheels01@6f15d60e]" name="getupbikes" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.Selectupbikes()[pri:3, instance:testcase.testcase_zigwheels01@6f15d60e]" name="Selectupbikes" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.gethonda()[pri:4, instance:testcase.testcase_zigwheels01@6f15d60e]" name="gethonda" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.sdrop()[pri:5, instance:testcase.testcase_zigwheels01@6f15d60e]" name="sdrop" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.selectingreadmore()[pri:6, instance:testcase.testcase_zigwheels01@6f15d60e]" name="selectingreadmore" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.printingreqdetails()[pri:7, instance:testcase.testcase_zigwheels01@6f15d60e]" name="printingreqdetails" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.navghp()[pri:8, instance:testcase.testcase_zigwheels01@6f15d60e]" name="navghp" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.popm()[pri:9, instance:testcase.testcase_zigwheels01@6f15d60e]" name="popm" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.selcityaschn()[pri:10, instance:testcase.testcase_zigwheels01@6f15d60e]" name="selcityaschn" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.scroillingucpm()[pri:11, instance:testcase.testcase_zigwheels01@6f15d60e]" name="scroillingucpm" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.printpm()[pri:12, instance:testcase.testcase_zigwheels01@6f15d60e]" name="printpm" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.navghp2()[pri:13, instance:testcase.testcase_zigwheels01@6f15d60e]" name="navghp2" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.getlogo()[pri:14, instance:testcase.testcase_zigwheels01@6f15d60e]" name="getlogo" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.registering()[pri:15, instance:testcase.testcase_zigwheels01@6f15d60e]" name="registering" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.selectinggoogle()[pri:16, instance:testcase.testcase_zigwheels01@6f15d60e]" name="selectinggoogle" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.getemess()[pri:19, instance:testcase.testcase_zigwheels01@6f15d60e]" name="getemess" class="testcase.testcase_zigwheels01"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="testcase_zigwheels01.reg()[pri:17, instance:testcase.testcase_zigwheels01@6f15d60e]" name="reg" class="testcase.testcase_zigwheels01"/>
+        <method signature="testcase_zigwheels01.clknb()[pri:18, instance:testcase.testcase_zigwheels01@6f15d60e]" name="clknb" class="testcase.testcase_zigwheels01"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2024-02-28T22:45:56 IST" name="Test" finished-at="2024-02-28T22:46:33 IST" duration-ms="37042">
+      <class name="testcase.testcase_zigwheels01">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:45:57 IST" name="setup" finished-at="2024-02-28T22:46:07 IST" duration-ms="10324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mainlog()[pri:1, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:07 IST" name="mainlog" finished-at="2024-02-28T22:46:07 IST" duration-ms="417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainlog -->
+        <test-method signature="getupbikes()[pri:2, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:08 IST" name="getupbikes" finished-at="2024-02-28T22:46:08 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getupbikes -->
+        <test-method signature="Selectupbikes()[pri:3, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:09 IST" name="Selectupbikes" finished-at="2024-02-28T22:46:09 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selectupbikes -->
+        <test-method signature="gethonda()[pri:4, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:10 IST" name="gethonda" finished-at="2024-02-28T22:46:10 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gethonda -->
+        <test-method signature="sdrop()[pri:5, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:10 IST" name="sdrop" finished-at="2024-02-28T22:46:11 IST" duration-ms="971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sdrop -->
+        <test-method signature="selectingreadmore()[pri:6, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:11 IST" name="selectingreadmore" finished-at="2024-02-28T22:46:12 IST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectingreadmore -->
+        <test-method signature="printingreqdetails()[pri:7, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:12 IST" name="printingreqdetails" finished-at="2024-02-28T22:46:14 IST" duration-ms="2350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printingreqdetails -->
+        <test-method signature="navghp()[pri:8, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:14 IST" name="navghp" finished-at="2024-02-28T22:46:15 IST" duration-ms="1058" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navghp -->
+        <test-method signature="popm()[pri:9, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:16 IST" name="popm" finished-at="2024-02-28T22:46:16 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- popm -->
+        <test-method signature="selcityaschn()[pri:10, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:16 IST" name="selcityaschn" finished-at="2024-02-28T22:46:21 IST" duration-ms="4313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selcityaschn -->
+        <test-method signature="scroillingucpm()[pri:11, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:21 IST" name="scroillingucpm" finished-at="2024-02-28T22:46:21 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroillingucpm -->
+        <test-method signature="printpm()[pri:12, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:21 IST" name="printpm" finished-at="2024-02-28T22:46:22 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printpm -->
+        <test-method signature="navghp2()[pri:13, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:22 IST" name="navghp2" finished-at="2024-02-28T22:46:24 IST" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navghp2 -->
+        <test-method signature="getlogo()[pri:14, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:24 IST" name="getlogo" finished-at="2024-02-28T22:46:24 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getlogo -->
+        <test-method signature="registering()[pri:15, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:25 IST" name="registering" finished-at="2024-02-28T22:46:26 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registering -->
+        <test-method signature="selectinggoogle()[pri:16, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:26 IST" name="selectinggoogle" finished-at="2024-02-28T22:46:27 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectinggoogle -->
+        <test-method signature="reg()[pri:17, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:27 IST" name="reg" finished-at="2024-02-28T22:46:28 IST" duration-ms="1312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reg -->
+        <test-method signature="clknb()[pri:18, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:28 IST" name="clknb" finished-at="2024-02-28T22:46:29 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clknb -->
+        <test-method signature="getemess()[pri:19, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:29 IST" name="getemess" finished-at="2024-02-28T22:46:30 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getemess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.testcase_zigwheels01@6f15d60e]" started-at="2024-02-28T22:46:30 IST" name="tearDown" finished-at="2024-02-28T22:46:33 IST" duration-ms="3342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.testcase_zigwheels01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

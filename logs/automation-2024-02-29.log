@@ -1,0 +1,60 @@
+22:35:49.509 [main] INFO  testcase.testcase_zigwheels01 - ****** starting testcase_zigwheels01 ******
+22:35:50.489 [main] INFO  testcase.testcase_zigwheels01 - perform action on new cars
+22:35:51.721 [main] INFO  testcase.testcase_zigwheels01 - clicked on upcoming cars
+22:35:51.955 [main] INFO  testcase.testcase_zigwheels01 - printing deatils of honda bikes
+22:35:52.097 [main] INFO  testcase.testcase_zigwheels01 - selcting dropsown
+22:35:53.144 [main] INFO  testcase.testcase_zigwheels01 - selecting honda
+22:35:53.440 [main] INFO  testcase.testcase_zigwheels01 - selcting readmore
+22:35:58.044 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:35:59.106 [main] INFO  testcase.testcase_zigwheels01 - Selecting used bikes in chennai
+22:35:59.487 [main] INFO  testcase.testcase_zigwheels01 - selcting used bikes
+22:36:02.739 [main] INFO  testcase.testcase_zigwheels01 - Selecting city
+22:36:02.939 [main] INFO  testcase.testcase_zigwheels01 - scrolling upto popular models
+22:36:03.507 [main] INFO  testcase.testcase_zigwheels01 - printing popular models
+22:36:03.805 [main] INFO  testcase.testcase_zigwheels01 - validating user deatils
+22:36:04.994 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:36:06.467 [main] INFO  testcase.testcase_zigwheels01 - selcting login/signup
+22:36:06.971 [main] INFO  testcase.testcase_zigwheels01 - select google
+22:43:12.922 [main] INFO  testcase.testcase_zigwheels01 - ****** starting testcase_zigwheels01 ******
+22:43:14.329 [main] INFO  testcase.testcase_zigwheels01 - perform action on new cars
+22:43:15.549 [main] INFO  testcase.testcase_zigwheels01 - clicked on upcoming cars
+22:43:15.715 [main] INFO  testcase.testcase_zigwheels01 - printing deatils of honda bikes
+22:43:15.823 [main] INFO  testcase.testcase_zigwheels01 - selcting dropsown
+22:43:16.564 [main] INFO  testcase.testcase_zigwheels01 - selecting honda
+22:43:16.935 [main] INFO  testcase.testcase_zigwheels01 - selcting readmore
+22:43:20.826 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:43:21.501 [main] INFO  testcase.testcase_zigwheels01 - Selecting used bikes in chennai
+22:43:21.679 [main] INFO  testcase.testcase_zigwheels01 - selcting used bikes
+22:43:24.202 [main] INFO  testcase.testcase_zigwheels01 - Selecting city
+22:43:24.374 [main] INFO  testcase.testcase_zigwheels01 - scrolling upto popular models
+22:43:25.540 [main] INFO  testcase.testcase_zigwheels01 - printing popular models
+22:43:25.760 [main] INFO  testcase.testcase_zigwheels01 - validating user deatils
+22:43:26.904 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:43:28.033 [main] INFO  testcase.testcase_zigwheels01 - selcting login/signup
+22:43:28.445 [main] INFO  testcase.testcase_zigwheels01 - select google
+22:46:07.483 [main] INFO  testcase.testcase_zigwheels01 - ****** starting testcase_zigwheels01 ******
+22:46:08.638 [main] INFO  testcase.testcase_zigwheels01 - perform action on new cars
+22:46:09.902 [main] INFO  testcase.testcase_zigwheels01 - clicked on upcoming cars
+22:46:10.179 [main] INFO  testcase.testcase_zigwheels01 - printing deatils of honda bikes
+22:46:10.343 [main] INFO  testcase.testcase_zigwheels01 - selcting dropsown
+22:46:11.680 [main] INFO  testcase.testcase_zigwheels01 - selecting honda
+22:46:12.048 [main] INFO  testcase.testcase_zigwheels01 - selcting readmore
+22:46:15.796 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:46:16.512 [main] INFO  testcase.testcase_zigwheels01 - Selecting used bikes in chennai
+22:46:16.699 [main] INFO  testcase.testcase_zigwheels01 - selcting used bikes
+22:46:21.296 [main] INFO  testcase.testcase_zigwheels01 - Selecting city
+22:46:21.594 [main] INFO  testcase.testcase_zigwheels01 - scrolling upto popular models
+22:46:22.019 [main] INFO  testcase.testcase_zigwheels01 - printing popular models
+22:46:22.228 [main] INFO  testcase.testcase_zigwheels01 - validating user deatils
+22:46:24.166 [main] INFO  testcase.testcase_zigwheels01 - navigating back to home page
+22:46:26.374 [main] INFO  testcase.testcase_zigwheels01 - selcting login/signup
+22:46:27.169 [main] INFO  testcase.testcase_zigwheels01 - select google
+22:46:27.485 [main] INFO  testcase.testcase_zigwheels01 - entering details
+22:46:28.770 [main] INFO  testcase.testcase_zigwheels01 - entering invalid emil id
+22:46:29.779 [main] INFO  testcase.testcase_zigwheels01 - clicking next button
+22:46:30.015 [main] INFO  testcase.testcase_zigwheels01 - validating error message
+22:46:30.015 [main] ERROR testcase.testcase_zigwheels01 - test failed...
+22:46:30.015 [main] INFO  testcase.testcase_zigwheels01 - ****** finishedtestcase_zigwheels01 ******
+11:55:09.936 [main] INFO  testcase.testcase_zigwheels01 - ****** starting testcase_zigwheels01 ******
+11:55:11.020 [main] INFO  testcase.testcase_zigwheels01 - perform action on new cars
+11:55:12.987 [main] INFO  testcase.testcase_zigwheels01 - clicked on upcoming cars
